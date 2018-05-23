@@ -1,0 +1,14 @@
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\UnitTestingSample.exe.config
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\UnitTestingSample.exe
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\UnitTestingSample.pdb
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\Castle.Core.dll
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\System.ValueTuple.dll
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\Castle.Core.xml
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\bin\Debug\System.ValueTuple.xml
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\obj\Debug\UnitTestingSample.csprojResolveAssemblyReference.cache
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\obj\Debug\UnitTestingSample.csproj.CoreCompileInputs.cache
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\obj\Debug\UnitTestingSample.csproj.CopyComplete
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\obj\Debug\UnitTestingSample.exe
+C:\Users\imoshika\source\repos\UnitTestingSample\UnitTestingSample\obj\Debug\UnitTestingSample.pdb
